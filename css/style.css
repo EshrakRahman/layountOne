@@ -1,0 +1,56 @@
+.header {
+    background-color: aqua;
+    height: 100px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+
+main {
+    margin-top: 20px;
+    overflow: hidden;
+}
+
+.navi {
+    background-color: aquamarine;
+    height: 500px;
+    width: 20%;
+    float: left;
+    margin-right: 5px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+
+
+.article {
+    background-color: cadetblue;
+    height: 500px;
+    width: 59%;
+    float: left;
+    margin-left: 5px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+
+.sidebar {
+    background-color: cornflowerblue;
+    height: 500px;
+    width: 20%;
+    float: right;
+    text-align: center;
+    color: rgb(0, 0, 0);
+    text-transform: uppercase;
+}
+
+footer {
+    background-color: crimson;
+    height: 200px;
+    text-align: center;
+    color: whitesmoke;
+    text-transform: uppercase;
+}
